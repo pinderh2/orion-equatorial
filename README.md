@@ -10,3 +10,5 @@ of the project.
 Just install the Arduino software, install two libraries (see code for details) and
 then build and download.
 
+This software is intended for Arduino Uno, although it should work fine on a range of models.
+
